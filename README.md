@@ -7,7 +7,7 @@ In this project i employed the following:
 - Pivot Table
 - Dashboarding
 
-#Insights
+# Insights
 - Profit by Months
 - Profit by Segments
 - Sales by Country 
